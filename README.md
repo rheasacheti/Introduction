@@ -1,2 +1,3 @@
 # Introduction
-Codes i wrote for Introduction to JAVA at Georgia Tech
+Codes I wrote for Introduction to JAVA CS 1331 at Georgia Tech
+Starting January 10th.
